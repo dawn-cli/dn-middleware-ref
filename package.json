@@ -1,6 +1,6 @@
 {
   "name": "dn-middleware-ref",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "模板引用中间件，用于叠加方法，由一个基础模板创建新模板",
   "main": "./lib/index.js",
   "scripts": {
