@@ -26,4 +26,4 @@ init:
   - name: pkginfo
 ```
 
-注意，`ref` 中间件，必须是 init 的第一步中间件。
+注意，`ref` 中间件，必须是 init 的第一个中间件。
